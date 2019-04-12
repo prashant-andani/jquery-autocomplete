@@ -20,7 +20,7 @@
         }
     ],
     "dependencies": {
-        "jquery": "1"
+        "jquery": "3.4.0"
     },
     "description": "Assisting the user with choosing a value from a list (either on server or on client) by showing available values based on keyboard input",
     "keywords": [
